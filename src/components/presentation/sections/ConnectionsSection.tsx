@@ -5,7 +5,7 @@ import { SectionHeading } from "../SectionHeading";
 export function ConnectionsSection() {
   return (
     <Section id="connections" eyebrow="05">
-      <SectionHeading icon={Link2} title="Making Connections" kicker="The Bridge" />
+      <SectionHeading icon={Link2} title="Next steps for after high school and future?" kicker="The Bridge" />
       <div className="grid md:grid-cols-2 gap-6">
         <div className="rounded-2xl border border-border bg-card/40 p-7">
           <h3 className="font-serif text-2xl mb-3 text-accent">Outside school</h3>
