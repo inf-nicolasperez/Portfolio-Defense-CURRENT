@@ -3,9 +3,9 @@ import { Section } from "../Section";
 import { SectionHeading } from "../SectionHeading";
 
 const STEPS = [
-  { n: "01", t: "Pronto, I'll have my personal portfolio finished, and will grow my network" },
-  { n: "02", t: "By next school year, I hope to be in a stable position, education and job wise. Maybe under the same company with a increase in income" },
-  { n: "03", t: "My long term goal is to have my own Technology related company, specifically in AI or in Cybersecruity." },
+  { n: "01", t: "Pronto, I'll have my personal portfolio finished, and will grow my network by attending Hackathons and attending events." },
+  { n: "02", t: "By next school year, I hope to be in a stable position, education and job wise. Maybe under the same company with an increase in income" },
+  { n: "03", t: "My long term goal is to have my own Technology related company, specifically in Local AI Development or in Cybersecurity, working in preventing fraud and national threat level issues." },
 ];
 
 export function NextStepsSection() {

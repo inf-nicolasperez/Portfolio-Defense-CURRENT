@@ -21,11 +21,11 @@ export function CriticalThinkingEvidence1Section() {
         blocks={[
           {
             label: "CONNECTION TO COMPETENCY",
-            body: "This evidence relates and correlates to Critical Thinking by showing how quick and efficient i had to be when it came to deadlines. I had to manage my time carefully in order to meet requierments.",
+            body: "This evidence relates and to Critical Thinking by showing how quick and efficient I had to be when it came to deadlines. I had to manage my time carefully in order to meet requierments. (.tag SPEAKER NOTES: Add an example here right after last sentence)",
           },
           {
             label: "MORE DETAILS",
-            body: "I've been in the construction industry behind the scenes for as long as I can remember, due to my Father working under it for years. He introduced me to the current company im working under, and because of the practice i've had with my dad's buisness, I was able to maintain a stable workflow throughout my time working here.",
+            body: "I've been in the construction industry behind the scenes for as long as I can remember, due to my Father working under it for years. He introduced me to the current company I'm working under, and because of the practice I've had with my dad's buisness, I was able to maintain a stable workflow throughout my time working here.",
           },
           {
             label: "REFLECTION",

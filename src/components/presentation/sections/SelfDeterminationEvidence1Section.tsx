@@ -11,7 +11,7 @@ export function SelfDeterminationEvidence1Section() {
         Self determination to me, is not giving up on yourself or work, even if it seems like theres nothing else you can do. 
       </p>
       <EvidenceCard
-        tag="EVIDENCE 01"
+        tag="EVIDENCE 01 - PERSONAL"
         title="My Portfolio Defense"
         numeral="01"
         Icon={Compass}

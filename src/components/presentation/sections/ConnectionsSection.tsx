@@ -10,14 +10,14 @@ export function ConnectionsSection() {
         <div className="rounded-2xl border border-border bg-card/40 p-7">
           <h3 className="font-serif text-2xl mb-3 text-accent">Outside school</h3>
           <p className="text-foreground/85 leading-relaxed">
-            I see my self using this learning in my job, where critical thinking and self determination are a must.
+            I see my self using what i've learned in my job, and my college major where critical thinking and self determination are a must. For example, I expect deploying full stack applications
           </p>
         </div>
         <div className="rounded-2xl border border-border bg-card/40 p-7">
           <h3 className="font-serif text-2xl mb-3 text-accent">In my future</h3>
           <p className="text-foreground/85 leading-relaxed">
             This learning will matter for my future career, and also the person I want to become. A more centralized
-            idea of myself.
+            idea of myself. Such as gaining more skill in Cybersecurity and Software Development. Overall becoming an expert in my field, while also having the time to manage and work on my own personal projects.
           </p>
         </div>
       </div>
