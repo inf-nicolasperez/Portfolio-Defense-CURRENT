@@ -36,7 +36,15 @@ export function HomeSection() {
       <div className="mt-10 grid grid-cols-1 md:grid-cols-3 gap-4">
         {[photo1, photo2, photo3].map((src, i) => (
           <div key={i} className="aspect-square rounded-xl overflow-hidden border border-border bg-card/40">
-            <img src={src} alt="Personal photo" className="w-full h-full object-cover opacity-90" />
+            <img
+              src={src}
+              alt="Personal photo"
+              className={
+                i === 2
+                  ? "w-full h-full object-contain opacity-90 p-2"
+                  : "w-full h-full object-cover opacity-90"
+              }
+            />
           </div>
         ))}
       </div>
