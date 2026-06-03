@@ -15,7 +15,7 @@ export function HomeSection() {
         Self Determination &amp; Critical Thinking
       </p>
       <p className="mt-8 max-w-2xl text-foreground/85 leading-relaxed">
-        As you may know, my names Nicolas Perez, born and raised in SF, My goal is to implement safety in technology, as
+        As you may know, my name's Nicolas Perez, born and raised in SF, My goal is to implement safety in technology, as
         well as create solutions for you, the day to day consumer. Today, I'll show you what this defense means to me.
       </p>
 

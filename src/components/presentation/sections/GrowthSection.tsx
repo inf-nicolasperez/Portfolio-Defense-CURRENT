@@ -5,7 +5,7 @@ import { SectionHeading } from "../SectionHeading";
 const ITEMS = [
   "Being more attentive with my personal work.",
   "Prioritizing turning in my work over personal projects",
-  "Remembering Mr. Jimenez's words from Freshman Year: Time management is one of the most importat things in your day to day life.",
+  "Remembering Mr. Jimenez's words from Freshman Year: Time management is one of the most important things in your day to day life.",
 ];
 
 export function GrowthSection() {

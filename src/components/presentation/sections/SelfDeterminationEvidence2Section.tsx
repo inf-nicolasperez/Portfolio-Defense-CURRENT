@@ -13,15 +13,15 @@ export function SelfDeterminationEvidence2Section() {
         numeral="02"
         Icon={TrendingUp}
         image={image}
-        intro="I challanged myself in Track and Field after school each week. I didn't have any experience prior to joining, but I told my self I'd try something new before I graduate."
+        intro="I challenenged myself in Track and Field after school each week. I didn't have any experience prior to joining, but I told myself I'd try something new before I graduate."
         blocks={[
           {
             label: "CONNECTION TO COMPETENCY",
-            body: "Track and Field was a challenging first time experience. I never thought of joining Track and Field beforehand, not in my middle school career or highschool career, but my friends and my coach pushed me to try it out. My ultimate decision was to join and stay, I did so because I wanted to prove myself that I could commit to long term activites. I even scheduled to get my physical form immediately after deciding to join Track. ",
+            body: "Track and Field was a challenging first time experience. I never thought of joining Track and Field beforehand, not in my middle school career or highschool career, but my friends and my coach pushed me to try it out. My ultimate decision was to join and stay, I did so because I wanted to prove myself that I could commit to long term activities. I even scheduled to get my physical form immediately after deciding to join Track. ",
           },
           {
             label: "MORE DETAILS",
-            body: "The first time I ran the 100 Meeter dash, I realized that running made me feel more free, I didn't hold back when I ran, and it led me to making my Personal Best(PB), 14.67. I'm determined to do more and improve myself because of the Interal feeling of self fullilment I get when I see myself improve.",
+            body: "The first time I ran the 100 Meter dash, I realized that running made me feel more free, I didn't hold back when I ran, and it led me to making my Personal Best(PB), 14.67. I'm determined to do more and improve myself because of the Internal feeling of self fulfillment I get when I see myself improve.",
           },
           {
             label: "REFLECTION",

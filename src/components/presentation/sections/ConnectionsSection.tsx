@@ -10,7 +10,7 @@ export function ConnectionsSection() {
         <div className="rounded-2xl border border-border bg-card/40 p-7">
           <h3 className="font-serif text-2xl mb-3 text-accent">Outside school</h3>
           <p className="text-foreground/85 leading-relaxed">
-            I see my self using what i've learned in my job, and my college major where critical thinking and self determination are a must. For example, I expect deploying full stack applications
+            I see my self using what i've learned in my job, and my college major where critical thinking and self determination are a must. For example, I expect deploying full stack applications that solve active, real world problems.
           </p>
         </div>
         <div className="rounded-2xl border border-border bg-card/40 p-7">

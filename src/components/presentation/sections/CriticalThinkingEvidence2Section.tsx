@@ -21,11 +21,11 @@ export function CriticalThinkingEvidence2Section() {
           },
           {
             label: "MORE DETAILS",
-            body: "The stock market fluctuates constantly, meaning theres never an anticipated profit or ROI. I did some research regarding real world problems like wars, AI, Teacher Income, and health care. Those are all examples of things that can make the stock market change depending on the news or how it affects us, the consumers.",
+            body: "The stock market fluctuates constantly, meaning there's never an anticipated profit or ROI. I did some research regarding real world problems like wars, AI, Teacher Income, and health care. Those are all examples of things that can make the stock market change depending on the news or how it affects us, the consumers.",
           },
           {
             label: "REFLECTION",
-            body: "This project taught me that even though I had that past knowledge on the stock market, theres alaways room for improvement, as I still had some losses during the simulator. At the same time, I could also skim past the vocab, and the starting point during the project due to the past experience. This past experience is what really shapes my outcome, I like to think of what I do as a rivalary within myself, Quality over Quantity. ",
+            body: "This project taught me that even though I had that past knowledge on the stock market, there's always room for improvement, as I still had some losses during the simulator. At the same time, I could also skim past the vocab, and the starting point during the project due to the past experience. This past experience is what really shapes my outcome, I like to think of what I do as a rivalary within myself, Quality over Quantity. ",
           },
         ]}
       />
