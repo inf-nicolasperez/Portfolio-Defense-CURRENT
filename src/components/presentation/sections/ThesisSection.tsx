@@ -10,7 +10,7 @@ export function ThesisSection() {
         {[
           {
             q: "My future college and/or career plans",
-            a: "After Leadership Highschool, I will attend SFSU. I will pursue my long live dream of majoring in cybersecurity and computer information. When everything goes accordingly, I'll own and start my own Artifitial intelegence safety network and open source project for the people.",
+            a: "After Leadership Highschool, I will attend SFSU. I will pursue my life long dream of majoring in cybersecurity and computer information. When everything goes accordingly, I'll own and start my own Artificial Intelligence safety network and open source project for the general public to ensure when safety when using AI.",
           },
           {
             q: "Two competencies I've used and grown in",
@@ -18,7 +18,7 @@ export function ThesisSection() {
           },
           {
             q: "How I'll apply them to my future",
-            a: "These competencies and skills will aid my future life by providing a standing baseline and understandment prior to entering the real world.",
+            a: "These competencies and skills will aid my future life by providing a standing baseline and understandment prior to entering the real world. For example, Crtitical thinking will continue to be a core skill by helping me know how to navigate and use AI in a safe and efficient way. Self Determination will be another core skill that will help me by continuing to self regulate AI since its very rapidly changing, and I didn't have a mentor to teach me.",
           },
         ].map((item, i) => (
           <li key={i} className="flex gap-4 items-baseline">

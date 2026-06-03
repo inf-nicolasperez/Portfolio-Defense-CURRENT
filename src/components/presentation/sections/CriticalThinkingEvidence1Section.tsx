@@ -21,7 +21,7 @@ export function CriticalThinkingEvidence1Section() {
         blocks={[
           {
             label: "CONNECTION TO COMPETENCY",
-            body: "This evidence relates and to Critical Thinking by showing how quick and efficient I had to be when it came to deadlines. I had to manage my time carefully in order to meet requirements.",
+            body: "This evidence relates and to Critical Thinking by showing how quick and efficient I had to be when it came to deadlines. I had to manage my time carefully in order to meet requirements, like handling invoices or managing client communications.",
           },
           {
             label: "MORE DETAILS",
@@ -29,7 +29,7 @@ export function CriticalThinkingEvidence1Section() {
           },
           {
             label: "REFLECTION",
-            body: "I've learned many valuable things throughout my current time working for the company, and also for my father, Including how to manage my time and organize my own work. Because at the end of the day, your supervisors wont keep tabs on where your work is.",
+            body: "I've learned many valuable things throughout my current time working for the company, and also for my father, Including how to manage my time and organize my own work. Because at the end of the day, your the one responsible for your own work.",
           },
         ]}
       />

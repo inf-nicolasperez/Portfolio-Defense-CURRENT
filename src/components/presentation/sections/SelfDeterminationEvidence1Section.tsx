@@ -28,7 +28,7 @@ export function SelfDeterminationEvidence1Section() {
           },
           {
             label: "REFLECTION",
-            body: "This experience pushed me to better prepare myself, but most importanly to not leave a unfinished project, even if its from school, unfinished.",
+            body: "This experience pushed me to better prepare myself, but most importanly to not leave a unfinished project, even if its from school, unfinished. I've realized that not everything in life will go to plan, but if I use this self determination, I believe I can push through.",
           },
         ]}
       />
