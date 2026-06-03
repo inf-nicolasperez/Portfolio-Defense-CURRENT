@@ -17,7 +17,7 @@ export function CriticalThinkingEvidence2Section() {
         blocks={[
           {
             label: "CONNECTION TO COMPETENCY",
-            body: "Stock investment is something I've been practicing for since 8th grade. I've always been interested in the trade market, so doing it in school has given me a headstart. This further proves my efficiency and the correlation to Critical thinking by showing you all my active mindset and decision making.",
+            body: "Stock investment is something I've been practicing since 8th grade. I've always been interested in the trade market, so doing it in school has given me a headstart. This further proves my efficiency and the correlation to Critical thinking by showing you all my active mindset and decision making.",
           },
           {
             label: "MORE DETAILS",

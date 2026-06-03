@@ -20,7 +20,7 @@ export function SelfDeterminationEvidence1Section() {
         blocks={[
           {
             label: "MORE DETAILS",
-            body: "The crucial mistake I made while creating this presentation was not create somewhere I can go back to fix small code changes. Website Development isn't simply writing lines of code, but also knowing your enviorment. This isn't a google slide presentation where I could 'revert changes', I accidently deleted the folder I was working in, causing the loss in my progress.",
+            body: "The crucial mistake I made while creating this presentation was not creating somewhere I can go back to fix small code changes. Website Development isn't simply writing lines of code, but also knowing your environment. This isn't a google slide presentation where I could 'revert changes', I accidently deleted the folder I was working in, causing the loss in my progress.",
           },
           {
             label: "CONNECTION TO COMPETENCY",

@@ -14,11 +14,11 @@ export function ThesisSection() {
           },
           {
             q: "Two competencies I've used and grown in",
-            a: "The two competencies I've used and grown into are Self Determination, and Crtical thinking. I believe I've grown into a better person not just this year but over the history of my High school career. These two competencies are a CORE in my student life, but also my personal and work life.",
+            a: "The two competencies I've used and grown into are Self Determination, and Critical thinking. I believe I've grown into a better person not just this year but over the history of my High school career. These two competencies are a CORE part not only in my student life but also my personal and work life.",
           },
           {
             q: "How I'll apply them to my future",
-            a: "These competencies and skills will aid my future life by providing a standing baseline and understandment prior to entering the real world. For example, Crtitical thinking will continue to be a core skill by helping me know how to navigate and use AI in a safe and efficient way. Self Determination will be another core skill that will help me by continuing to self regulate AI since its very rapidly changing, and I didn't have a mentor to teach me.",
+            a: "These competencies and skills will aid my future life by providing a standing baseline and understandment prior to entering the real world. For example, Critical thinking will continue to be a core skill by helping me know how to navigate and use AI in a safe and efficient way. Self Determination will be another core skill that will help me by continuing to self regulate AI since its very rapidly changing, and I didn't have a mentor to teach me.",
           },
         ].map((item, i) => (
           <li key={i} className="flex gap-4 items-baseline">

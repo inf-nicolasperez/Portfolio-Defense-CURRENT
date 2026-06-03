@@ -21,7 +21,7 @@ export function CriticalThinkingEvidence1Section() {
         blocks={[
           {
             label: "CONNECTION TO COMPETENCY",
-            body: "This evidence relates and to Critical Thinking by showing how quick and efficient I had to be when it came to deadlines. I had to manage my time carefully in order to meet requirements, like handling invoices or managing client communications.",
+            body: "This evidence relates to Critical Thinking by showing how quick and efficient I had to be when it came to deadlines. I had to manage my time carefully in order to meet requirements, like handling invoices or managing client communications.",
           },
           {
             label: "MORE DETAILS",

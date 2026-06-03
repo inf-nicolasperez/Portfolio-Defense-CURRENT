@@ -13,7 +13,7 @@ export function SelfDeterminationEvidence2Section() {
         numeral="02"
         Icon={TrendingUp}
         image={image}
-        intro="I challenenged myself in Track and Field after school each week. I didn't have any experience prior to joining, but I told myself I'd try something new before I graduate."
+        intro="I challenged myself in Track and Field after school each week. I didn't have any experience prior to joining, but I told myself I'd try something new before I graduate."
         blocks={[
           {
             label: "CONNECTION TO COMPETENCY",
